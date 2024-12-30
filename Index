@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AstroDefend Innovations</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>AstroDefend Innovations</h1>
+    <p>Securing the Future Beyond Earth</p>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#missions">Missions</a></li>
+      <li><a href="#technology">Technology</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>We are a leading defense space exploration company focused on securing Earth's future through advanced space technologies.</p>
+    </section>
+    <section id="missions">
+      <h2>Our Missions</h2>
+      <ul>
+        <li><strong>Sentinel Orbiter:</strong> Satellite-based defense surveillance.</li>
+        <li><strong>Lunar Shield Base:</strong> Moon-based defense infrastructure.</li>
+        <li><strong>StarSafe Initiative:</strong> Asteroid deflection technologies.</li>
+      </ul>
+    </section>
+    <section id="technology">
+      <h2>Technology</h2>
+      <p>We innovate with hybrid propulsion systems, autonomous drones, and advanced radar systems for space defense.</p>
+    </section>
+  </main>
+  <footer>
+    <p>© 2024 AstroDefend Innovations. All rights reserved.</p>
+  </footer>
+</body>
+</html>
